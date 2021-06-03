@@ -1,3 +1,10 @@
+"""The LinkedList code from before is provided below.
+Add three functions to the LinkedList.
+"get_position" returns the element at a certain position.
+The "insert" function will add an element to a particular
+spot in the list.
+"delete" will delete the first element with that
+particular value."""
 class Element(object):
     def __init__(self, value):
         self.value = value
