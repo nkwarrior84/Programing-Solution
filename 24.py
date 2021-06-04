@@ -17,5 +17,5 @@ navneet = Person("Navneet")
 print("%s name is %s" % (Person.name, navneet.name))
 
 nikita = Person()
-nikita.name = "Nico"
+nikita.name = "Nikita"
 print("%s name is %s" % (Person.name, nikita.name))
