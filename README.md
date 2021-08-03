@@ -1,5 +1,7 @@
 # Programing-Solution
 
+In Java and Python
+
 Level 1 
 Beginner means someone who has just gone through an introductory Python course. He can solve some problems with 1 or 2 Python classes or functions. Normally, the answers could directly be found in the textbooks.  
 
